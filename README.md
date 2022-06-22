@@ -1,0 +1,2 @@
+# SPOJ
+Polish SPOJ exercises
