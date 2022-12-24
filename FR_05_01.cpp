@@ -16,7 +16,7 @@ int main(){
 		if(liczba==2){
 			dzien="Sr";
 		}
-	    if(liczba==3){
+	        if(liczba==3){
 			dzien="Cz";
 		}
 		if(liczba==4){
